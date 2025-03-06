@@ -6,12 +6,12 @@
 
 /* Light-mode Colours */
 :root {
-   --primary-bg: #f9fafb;
-   --secondary-bg: #ffffff;
+   --primary-bg: #8dcfec;
+   --secondary-bg: #AA98A9;
    --card-bg: #f9f9f9; /* Card background */
    --header-bg: #283e4a; /* Navy-ish header background */
-   --text-color: #2c3e50; /* Dark grayish-blue text */
-   --accent-color: #3498db; /* blue accent color */
+   --text-color: #00000; /* Dark grayish-blue text */
+   --accent-color: #FFDB58; /* blue accent color */
    --button-bg: #3498db;
    --button-hover-bg: #2980b9;
 }
@@ -22,7 +22,7 @@ body.dark-mode {
    --secondary-bg: #1e1e1e;
    --card-bg: #2c2c2c;
    --header-bg: #333;
-   --text-color: #e0e0e0;
+   --text-color: #FFFFFFF;
    --accent-color: #3498db;
    --button-bg: #3498db;
    --button-hover-bg: #2980b9;
